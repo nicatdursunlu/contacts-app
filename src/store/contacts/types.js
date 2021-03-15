@@ -1,0 +1,14 @@
+export const ADD_CONTACT = "ADD_CONTACT";
+export const DELETE_CONTACT = "DELETE_CONTACT";
+export const EDIT_CONTACT = "EDIT_CONTACT";
+export const CLEAR_CONTACTS = "CLEAR_CONTACTS";
+export const SET_CURRENT_CONTACT = "SET_CURRENT_CONTACT";
+export const SHOW_CONTACT = "SHOW_CONTACT";
+export const HIDE_CONTACT = "HIDE_CONTACT";
+export const SHOW_MODAL = "SHOW_MODAL";
+export const HIDE_MODAL = "HIDE_MODAL";
+export const SET_EDIT_MODE = "SET_EDIT_MODE";
+export const SET_CREATE_MODE = "SET_CREATE_MODE";
+
+
+
