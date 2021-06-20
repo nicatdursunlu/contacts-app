@@ -13,7 +13,7 @@ Clone repository
 This app is website, so for debugging you must install Webstorm or Visual Studio Code <br>
 If you want you see project, click on the link below
 
-[Contacts Application](https://604f0ca35052f6480a21eac0--pedantic-khorana-2c7af2.netlify.app/#/)
+[Contacts Application](https://contacts-list-app.netlify.app)
 
 ## Used technologies
 Vue, Vuex, Vuex-persistedstate, CSS
